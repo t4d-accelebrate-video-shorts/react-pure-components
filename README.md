@@ -2,6 +2,8 @@
 
 ### Improve React Class-Based Component Performance with Pure Components
 
+[![YouTube Video](https://img.youtube.com/vi/UrjfkvSt_L8/0.jpg)](https://www.youtube.com/watch?v=UrjfkvSt_L8)
+
 This video short demonstation represents some of the content covered in the following React courses taught by [Accelebrate](https://www.accelebrate.com/):
 
 - [Introduction to React using JavaScript/ECMAScript](https://www.accelebrate.com/training/react)
@@ -15,7 +17,7 @@ Contact [Accelebrate](https://www.accelebrate.com/contact) today for all of your
 
 > All instructions and code in this repository are licensed under the MIT license. Read the license text in the file `license.txt` to learn more.
 
-The provided files are the start and finish files for the video. If you desire to code along with the instructor, [Eric Greene](http://www.t4d.io), clone this repository, open the `start` folder in your code editor and get started with the [YouTube Video](#). If you prefer to review only the completed files then browse the `finish` folder. 
+The provided files are the start and finish files for the video. If you desire to code along with the instructor, [Eric Greene](http://www.t4d.io), clone this repository, open the `start` folder in your code editor and get started with the [YouTube Video](https://www.youtube.com/watch?v=UrjfkvSt_L8). If you prefer to review only the completed files then browse the `finish` folder. 
 
 **Note:** Before watching the video and coding along you will need to setup your local environment. Within the instructions the word `terminal` refers to the Windows Command Prompt program on Windows and the Terminal program on macOS
 
@@ -69,12 +71,4 @@ npm start
 
 When the development web server starts, it should open the React web site in your default web browser. The url will be [http://localhost:3000](http://localhost:3000)
 
-**Step 6.** Start watching the [YouTube Video](#) and code along to learn more about how to improve React class-based component performance with React's Pure Component class
-
-
-
-
-
-
-
-
+**Step 6.** Start watching the [YouTube Video](https://www.youtube.com/watch?v=UrjfkvSt_L8) and code along to learn more about how to improve React class-based component performance with React's Pure Component class
